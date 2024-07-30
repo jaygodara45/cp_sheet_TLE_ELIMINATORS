@@ -1,3 +1,8 @@
+/*
+Logic: If k is atleast 2, we can keep swapping until the array becomes sorted. So answer is "YES".
+If k is 1: we can't do anything so if array is already sorted return "YES" else "NO".
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
